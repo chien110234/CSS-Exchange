@@ -2,7 +2,7 @@
 name: Work Item
 about: Work that needs to be done within the project
 title: "[Work Item]"
-labels: Work Item
+labels: ''
 assignees: ''
 
 ---

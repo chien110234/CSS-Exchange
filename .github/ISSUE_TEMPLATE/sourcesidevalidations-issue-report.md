@@ -2,8 +2,8 @@
 name: SourceSideValidations Issue Report
 about: Report a problem with the SourceSideValidations script
 title: "[Issue] SourceSideValidations - "
-labels: Issue, Public Folders
-assignees: bill-long
+labels: ''
+assignees: ''
 
 ---
 
